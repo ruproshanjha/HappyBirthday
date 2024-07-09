@@ -1,0 +1,75 @@
+body {
+    * {
+        margin: 0;
+        padding: 0;
+    }
+
+    #to {
+        height: 90vh;
+        width: 90vw;
+        border: 5px solid black;
+        margin: 3px;
+        padding: 3px;
+        border-style: ridge;
+        background-color: yellow;
+        text-align: center;
+        color: blue;
+
+
+
+    }
+
+    #ro {
+        height: 80vh;
+        width: 80vw;
+        border: 6px dashed;
+
+        margin: 9px;
+
+        background-color: cyan;
+        text-align: center;
+        color: green;
+
+
+
+    }
+
+    #go {
+        height: 70vh;
+        width: 70vw;
+        border: 5px dotted;
+
+        margin: 4px;
+        padding: 4px;
+        button: 1.5px;
+        background-color: rgba(80, 24, 201, 0.5);
+        right: 2cm;
+        font-size: 2px;
+        text-align: center;
+        color: rgba(61, 23, 45, 1);
+
+
+    }
+
+    #ho {
+        height: 50vh;
+        width: 50vw;
+        border: 5px solid;
+        border-style: inset;
+        margin: 4px;
+        padding: 3px;
+        button: 1px;
+        font-size: 20px;
+        background-color: white;
+
+        color: blue;
+
+        text-align: center;
+
+    }
+
+    #eo {
+        background-color: red;
+
+    }
+}
